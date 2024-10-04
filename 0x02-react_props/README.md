@@ -1,8 +1,22 @@
-0x02. React propsi
-Learning Objectives
-How to create basic React components using functions
-How to reuse components
-How to pass properties to components
-How to define types for components
-How to use Fragments
-When to use a key to improve a loop’s performance
+0x02. React props
+
+
+Learning Objectives :
+
+
+1) How to create basic React components using functions
+
+
+2) How to reuse components
+
+
+3) How to pass properties to components
+
+
+4) How to define types for components
+
+
+5) How to use Fragments
+
+
+6) When to use a key to improve a loop’s performance
